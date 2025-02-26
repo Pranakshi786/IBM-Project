@@ -1,0 +1,6 @@
+CustomerID,Age,Gender,TimeSpent,Purchases,Channel
+1,25,Male,10,2,Web
+2,30,Female,15,5,App
+3,40,Male,5,1,Web
+4,22,Female,20,8,App
+5,35,Male,12,3,Web
